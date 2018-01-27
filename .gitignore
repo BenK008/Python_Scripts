@@ -59,8 +59,9 @@ target/
 
 # Custom Files 
 __/*
-__
+__*
 __/
+_*
 *.ppt*
 *.doc*
 *.pdf*
