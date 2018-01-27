@@ -56,3 +56,15 @@ docs/_build/
 
 # PyBuilder
 target/
+
+# Custom Files 
+__/*
+__
+__/
+*.ppt*
+*.doc*
+*.pdf*
+*.xls*
+*.ht*
+*.ost
+*.pst
